@@ -1,1 +1,11 @@
-.container {}
+body {
+    background-color: black;
+    color: white;
+}
+
+.container {
+    background-color: rgb(54, 52, 52);
+    width: 80%;
+    margin: auto;
+    border-radius: 25px;
+}
